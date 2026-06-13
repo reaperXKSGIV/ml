@@ -991,7 +991,7 @@ function library:AddWindow(title, options)
 			Window.Draggable = false
 			if options.can_resize then
 				oldIcon = mouse.Icon
-				-- mouse.Icon = "http://www.roblox.com/asset?id=4745131330"
+				-- mouse.Icon = "http://www.roblox.com/asset?id=73430006430998"
 			end
 			Entered = true
 		end)
