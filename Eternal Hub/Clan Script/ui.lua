@@ -1,4 +1,3 @@
-
 -- Made by Fear_God, Edited
 local ui_options = {
 	main_color = Color3.fromRGB(128, 128, 128),
@@ -163,7 +162,7 @@ Top.BackgroundColor3 = Color3.new(1, 1, 1)
 Top.BackgroundTransparency = 1
 Top.Position = UDim2.new(0, 0, 0, -5)
 Top.Size = UDim2.new(1, 0, 0, 10)
-Top.Image = "rbxassetid://73430006430998"
+Top.Image = "rbxassetid://2851926732"
 Top.ImageColor3 = Color3.new(0.160784, 0.290196, 0.478431)
 Top.ScaleType = Enum.ScaleType.Slice
 Top.SliceCenter = Rect.new(12, 12, 12, 12)
